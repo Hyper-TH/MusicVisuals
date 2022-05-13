@@ -1,6 +1,5 @@
 package c20361521;
 
-import ddf.minim.analysis.*;
 import ie.tudublin.*;
 
 public class MyVisuals extends Visual
