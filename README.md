@@ -1,14 +1,14 @@
 # Music Visualiser Project
 
-Name: 
-Twila Habab
-Sadhbh Gowran
-Nathan Flanagan
+Names: <br>
+Twila Habab <br>
+Sadhbh Gowran <br>
+Nathan Flanagan <br>
 
-Student Number: 
-C20361521
-C20365601
-C20482566
+Student Number: <br>
+C20361521 <br>
+C20365601 <br>
+C20482566 <br>
 
 ## Instructions
 - Fork this repository and use it a starter project for your assignment
@@ -27,9 +27,11 @@ The groovy imagery is generated and rendered in real time and it's synchronized 
 We used the changes in the music's loudness spectrum and frequency spectrum as input properties into the visualization.
 
 
-![Final Repository](https://github.com/Hyper-TH/MusicVisuals)
-![Rough Work Repository](https://github.com/Hyper-TH/Hypers_OOP)
-![Youtube Video](https://www.youtube.com/watch?v=N7JQ1db4aBM)
+[Final Repository](https://github.com/Hyper-TH/MusicVisuals) <br>
+
+[Rough Work Repository](https://github.com/Hyper-TH/Hypers_OOP) <br>
+
+[Youtube Video](https://www.youtube.com/watch?v=N7JQ1db4aBM) <br>
 
 Render 1
 
