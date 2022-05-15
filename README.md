@@ -29,7 +29,7 @@ We used the changes in the music's loudness spectrum and frequency spectrum as i
 
 ![Final Repository](https://github.com/Hyper-TH/MusicVisuals)
 ![Rough Work Repository](https://github.com/Hyper-TH/Hypers_OOP)
-![Youtube Video](https://youtu.be/N7JQ1db4aBM)
+![Youtube Video](https://www.youtube.com/watch?v=N7JQ1db4aBM)
 
 Render 1
 
